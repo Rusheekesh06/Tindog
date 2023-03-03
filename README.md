@@ -1,2 +1,1 @@
-# Tindog
-Tindog is a website for dogs to find the love of their life.
+TinDog Starting Files
